@@ -1,0 +1,21 @@
+.navbar-menu{
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    align-items: center;
+}
+
+a{
+    text-transform: uppercase;
+    font-size: 18px;
+    color: rgb(black, green, blue);
+    letter-spacing: bolder;
+    text-decoration: none;
+    
+
+}
+
+a:hover{
+    color: red;
+}
